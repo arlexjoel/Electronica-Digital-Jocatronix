@@ -10,7 +10,7 @@ Proporcionar una base sólida en lógica digital, sistemas digitales y técnicas
 
 ---
 # 👥 Dirigido a
-El material es adecuado para estudiantes de:
+Estudiantes de:
 
 Ingeniería Eléctrica
 
@@ -46,22 +46,17 @@ Archivos de apoyo para simulación (según avance del curso)
 Los videos estarán disponibles en el canal de YouTube asociado al proyecto.
 Cada módulo incluirá su respectiva explicación, ejemplos y ejercicios guiados.
 
-(Agrega aquí el enlace cuando lo tengas.)
+(aquí el enlace cuando lo tengas.)
 
 ---
 # 🛠 Herramientas recomendadas
-Simuladores digitales (Logisim, Digital, Quartus, etc.)
+Simuladores digitales (Logisim, Digital, Proteus, etc.)
 
 Software de diseño esquemático
 
 Lenguajes HDL (opcional según el módulo)
 
 ---
-
-# 📘 Referencia principal
-Wakerly, J. F. Digital Design: Principles and Practices.
-Este curso se inspira en su estructura conceptual, pero presenta contenido original y adaptado.
-
 # 📄 Licencia
 Indica aquí la licencia que deseas usar (MIT, CC-BY, GPL, etc.).
 Ejemplo:
@@ -76,8 +71,8 @@ Puedes enviar issues, sugerencias o pull requests para mejorar el contenido.
 
 # 📬 Contacto
 Para dudas, sugerencias o colaboración:
-you tube: @jocatronix
-instagram: @jocatronix
-https://www.facebook.com/Jocatronix/
+* **you tube: @jocatronix
+* **instagram: @jocatronix
+* **https://www.facebook.com/Jocatronix/
 
 ---
