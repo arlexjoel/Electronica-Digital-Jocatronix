@@ -1,12 +1,12 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-##Curso de Diseño Digital 
+#Curso de Diseño Digital 
 Bienvenido al repositorio oficial del Curso de Diseño Digital, un programa formativo diseñado para quienes desean aprender, diseñar y construir circuitos digitales reales desde los fundamentos hasta aplicaciones prácticas.
-
+---
 ##🎯 Objetivo del curso
 Proporcionar una base sólida en lógica digital, sistemas digitales y técnicas modernas de diseño, permitiendo al estudiante comprender, analizar y construir circuitos digitales funcionales.
-
-#👥 Dirigido a
+---
+##👥 Dirigido a
 El material es adecuado para estudiantes de:
 
 Ingeniería Eléctrica
@@ -20,8 +20,9 @@ Ingeniería de Computación
 Tecnología en Electrónica
 
 Áreas afines y entusiastas del diseño digital
+---
 
-#📂 Contenido del repositorio
+##📂 Contenido del repositorio
 Este repositorio incluye:
 
 Presentaciones del curso
@@ -35,13 +36,13 @@ Material complementario
 Enlaces a los videos del curso en YouTube
 
 Archivos de apoyo para simulación (según avance del curso)
-
-📺 Videos del curso
+---
+##📺 Videos del curso
 Los videos estarán disponibles en el canal de YouTube asociado al proyecto.
 Cada módulo incluirá su respectiva explicación, ejemplos y ejercicios guiados.
 
 (Agrega aquí el enlace cuando lo tengas.)
-
+---
 🛠 Herramientas recomendadas
 Simuladores digitales (Logisim, Digital, Quartus, etc.)
 
