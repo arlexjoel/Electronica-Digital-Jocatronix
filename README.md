@@ -1,8 +1,9 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-#Curso de Diseño Digital 
+
+##Curso de Diseño Digital 
 Bienvenido al repositorio oficial del Curso de Diseño Digital, un programa formativo diseñado para quienes desean aprender, diseñar y construir circuitos digitales reales desde los fundamentos hasta aplicaciones prácticas.
 
-#🎯 Objetivo del curso
+##🎯 Objetivo del curso
 Proporcionar una base sólida en lógica digital, sistemas digitales y técnicas modernas de diseño, permitiendo al estudiante comprender, analizar y construir circuitos digitales funcionales.
 
 #👥 Dirigido a
