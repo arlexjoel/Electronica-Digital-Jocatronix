@@ -71,8 +71,8 @@ Puedes enviar issues, sugerencias o pull requests para mejorar el contenido.
 
 # 📬 Contacto
 Para dudas, sugerencias o colaboración:
-* **you tube: @jocatronix
-* **instagram: @jocatronix
-* **https://www.facebook.com/Jocatronix/
+* you tube: @jocatronix
+* instagram: @jocatronix
+* https://www.facebook.com/Jocatronix/
 
 ---
