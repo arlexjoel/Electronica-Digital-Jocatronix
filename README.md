@@ -1,7 +1,5 @@
-Curso de Diseño Digital – Basado en Wakerly
+Curso de Diseño Digital 
 Bienvenido al repositorio oficial del Curso de Diseño Digital, un programa formativo diseñado para quienes desean aprender, diseñar y construir circuitos digitales reales desde los fundamentos hasta aplicaciones prácticas.
-
-Este curso toma como referencia los principios del libro Digital Design de Wakerly, adaptados a un formato claro, progresivo y orientado al aprendizaje autónomo.
 
 🎯 Objetivo del curso
 Proporcionar una base sólida en lógica digital, sistemas digitales y técnicas modernas de diseño, permitiendo al estudiante comprender, analizar y construir circuitos digitales funcionales.
