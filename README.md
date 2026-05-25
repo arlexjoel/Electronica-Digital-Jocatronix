@@ -1,10 +1,11 @@
-Curso de Diseño Digital 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+#Curso de Diseño Digital 
 Bienvenido al repositorio oficial del Curso de Diseño Digital, un programa formativo diseñado para quienes desean aprender, diseñar y construir circuitos digitales reales desde los fundamentos hasta aplicaciones prácticas.
 
-🎯 Objetivo del curso
+#🎯 Objetivo del curso
 Proporcionar una base sólida en lógica digital, sistemas digitales y técnicas modernas de diseño, permitiendo al estudiante comprender, analizar y construir circuitos digitales funcionales.
 
-👥 Dirigido a
+#👥 Dirigido a
 El material es adecuado para estudiantes de:
 
 Ingeniería Eléctrica
@@ -19,7 +20,7 @@ Tecnología en Electrónica
 
 Áreas afines y entusiastas del diseño digital
 
-📂 Contenido del repositorio
+#📂 Contenido del repositorio
 Este repositorio incluye:
 
 Presentaciones del curso
@@ -47,7 +48,7 @@ Software de diseño esquemático
 
 Lenguajes HDL (opcional según el módulo)
 
-📘 Referencia principal
+#📘 Referencia principal
 Wakerly, J. F. Digital Design: Principles and Practices.
 Este curso se inspira en su estructura conceptual, pero presenta contenido original y adaptado.
 
